@@ -1,4 +1,5 @@
-# Pull base image
+#docker edited from cmd in remotebranch local 
+#Pull base image
 FROM tomcat:8-jre8
 
 # Maintainer
